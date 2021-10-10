@@ -1,0 +1,4 @@
+    PID TTY          TIME CMD
+   1156 pts/0    00:02:15 zsh
+  16529 pts/0    00:00:00 watchdog.sh
+  16612 pts/0    00:00:00 ps
